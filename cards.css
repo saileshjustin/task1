@@ -1,0 +1,29 @@
+body{
+	background-color: #50C7EC; 
+}
+
+#main{
+	background-color: #2C97B9;
+	margin:6%;
+	/*padding:4%;*/
+	display: flex;
+	justify-content: space-around;
+	box-shadow:#0F3D45;
+}
+
+.sub{
+	background-color: #177492;
+	width: 25%;
+	margin:5%;
+	text-align: center;
+	border-radius: 5%;
+}
+.sub:hover{
+	color:#0F3D45;
+}
+img{
+	width:70%;
+	height:50%;
+	border-radius:4%;
+	margin:5%;
+}
